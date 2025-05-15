@@ -3,7 +3,7 @@ package com.tibame.member.model;
 public class MemberVO {
 	private Integer memId;
 	private String memName;
-	private Integer ooo;
+	private Integer xxx;
 	
 	public MemberVO() {
 		super();
